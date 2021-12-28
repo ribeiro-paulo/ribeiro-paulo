@@ -1,8 +1,35 @@
-### Hi there 👋
 
-[![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiro-paulo&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+## Hi, my name is `Paulo Ribeiro`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-paulo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+- I am passionate about software development, research and design. I look for new experiences in order to challenge myself to know new technologies and methodologies.
+
+- (2017-2019) Computer Technician by IFAM.
+
+- (2021-2024) Graduating in Computer Science at UFAM.
+
+####
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+####
+
+<p align="center">
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img width="auto" height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=ribeiro-paulo&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img width="auto" height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-paulo&theme=github_dark&layout=compact" />
+</a>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 
 
 <!--
