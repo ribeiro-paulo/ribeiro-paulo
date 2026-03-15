@@ -5,7 +5,7 @@
 
 - (2017-2019) Computer Technician by IFAM.
 
-- (2021-2024) Graduating in Computer Science at UFAM.
+- (2025-2029) Graduating in Computer Science at UFAM.
 
 ####
 
